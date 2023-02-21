@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analysing 
 - 💞️ I’m looking to collaborate on data analysing 
 - 📫 How to reach me - Ping me on my linkedin "linkedin.com/in/nilesh-gohil-0aa0b817a"
-https://public.tableau.com/app/profile/nilesh.gohil
+
 
 <!---
 nileshgohil25/nileshgohil25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
